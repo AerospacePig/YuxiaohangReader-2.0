@@ -48,18 +48,18 @@ npm start
 npm run dist
 ```
 
-## 灵感来源或声明
+## 声明与感谢
 
-- 封面模仿"迷迭香的博客";
 - 设置页面模仿WPS设置页面;
-- 图片背景切换模仿"初音的青葱"(某galgame网站);
+- 封面模仿["迷迭香的博客"](https://rosmontis.com/);
+- 图片背景切换模仿["初音的青葱"](https://www.fufugal.com/);
 - 特别感谢这位大佬, 本项目很多地方参考了他这个项目(https://github.com/Kaidesuyo/Hydrogen-Music)
 
 - 另, 所有壁纸图片均来源于网络;
+...
 
 ## 📜 开源许可
 
 本项目仅供个人学习研究使用，禁止用于商业及非法用途。
 
 基于 [MIT license](https://opensource.org/licenses/MIT) 许可进行开源。
- ...
