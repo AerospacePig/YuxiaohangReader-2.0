@@ -53,7 +53,7 @@ npm run dist
 - 设置页面模仿WPS设置页面;
 - 封面模仿["迷迭香的博客"](https://rosmontis.com/);
 - 图片背景切换模仿["初音的青葱"](https://www.fufugal.com/);
-- 特别感谢这位大佬, 本项目很多地方参考了他这个项目(https://github.com/Kaidesuyo/Hydrogen-Music)
+- 特别感谢这位大佬, 本项目很多地方参考了他这个项目["明日方舟风格: 仿网易云音乐播放器"](https://github.com/Kaidesuyo/Hydrogen-Music)
 
 - 另, 所有壁纸图片均来源于网络;
 ...
