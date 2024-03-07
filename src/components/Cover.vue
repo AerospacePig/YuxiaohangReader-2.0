@@ -33,7 +33,7 @@
 
       <div class="contact">
         <p class="contact-qq">QQ:3165571820</p>
-        <p><a href="https://github.com/Yxiaohang">GitHub</a></p>
+        <p><a href="https://github.com/AerospacePig">GitHub</a></p>
       </div>
 
       <div class="background-image" :style="{ backgroundImage: `url(${currentBg})` }"></div>
