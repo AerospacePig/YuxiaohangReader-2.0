@@ -56,4 +56,10 @@ npm run dist
 - 特别感谢这位大佬, 本项目很多地方参考了他这个项目(https://github.com/Kaidesuyo/Hydrogen-Music)
 
 - 另, 所有壁纸图片均来源于网络;
+
+## 📜 开源许可
+
+本项目仅供个人学习研究使用，禁止用于商业及非法用途。
+
+基于 [MIT license](https://opensource.org/licenses/MIT) 许可进行开源。
  ...
